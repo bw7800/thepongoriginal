@@ -23,7 +23,6 @@
     {"id":{"name":"obj_modojogador","path":"objects/obj_modojogador/obj_modojogador.yy",},"order":7,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":3,},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":3,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":4,},
     {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},"order":6,},
@@ -51,7 +50,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
-    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anotações","folderPath":"folders/Anotações.yy","order":13,},
