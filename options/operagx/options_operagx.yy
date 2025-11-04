@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.0",
+  "option_operagx_next_version": "1.0.0.0",
+  "option_operagx_game_name": "thepong",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "f064f7d6-7629-46ef-947e-601ce02865ea",
+  "option_operagx_team_name": "(db505c40-8b37-49b9-abb8-71a75413de47) studio",
+  "option_operagx_team_id": "db505c40-8b37-49b9-abb8-71a75413de47",
+  "option_operagx_editUrl": "https://dev.gx.games/games/f064f7d6-7629-46ef-947e-601ce02865ea/details",
+  "option_operagx_internalShareUrl": "https://gx.games/games/sbbrlq/pong-2/tracks/431808de-66b9-46b1-bb49-2b55c4f90f14/",
+  "option_operagx_publicShareUrl": "",
+}
